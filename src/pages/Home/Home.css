@@ -1,0 +1,29 @@
+.home-hero {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 48px;
+}
+
+.home-hero h1 {
+  font-size: 2.2rem;
+  margin: 0 0 12px;
+}
+
+.home-hero p {
+  color: var(--text-dim);
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.park-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.home-error {
+  margin-top: 32px;
+  text-align: center;
+  color: var(--senior);
+}
