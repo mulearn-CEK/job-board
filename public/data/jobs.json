@@ -1,5 +1,18 @@
 [
   {
+    "job_id": "job-49-32864",
+    "title": "WordPress Developer",
+    "company": "TRAINONEX SOLUTIONS (P) Ltd",
+    "location": "Technopark",
+    "posted_date": "2026-09-12",
+    "deadline": "2026-09-15",
+    "apply_link": "https://technopark.in/job-details/32864",
+    "description": "",
+    "it_park": "Technopark",
+    "role_type": "Software Development",
+    "experience_level": "Intermediate"
+  },
+  {
     "job_id": "job-12-32863",
     "title": "Compliance Officer",
     "company": "Exalans & Hunar Corporate Solutions (P) LTD",
@@ -4667,6 +4680,45 @@
     "experience_level": "Senior"
   },
   {
+    "title": "Website QA Engineer Intern",
+    "company": "NewAgeSys Solutions (P) Ltd.",
+    "location": "Infopark",
+    "posted_date": "14-09-2026",
+    "deadline": "16 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/109/25456",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "9c2834f7d41b4ff6",
+    "role_type": "Internship / Trainee",
+    "experience_level": "Fresher"
+  },
+  {
+    "title": "QA Tester – Fresher",
+    "company": "Array Platforms Pvt Ltd",
+    "location": "Infopark",
+    "posted_date": "14-09-2026",
+    "deadline": "30 Oct 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/394/25455",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "706a000ce2f698a5",
+    "role_type": "Internship / Trainee",
+    "experience_level": "Fresher"
+  },
+  {
+    "title": "IT Sales Specialist",
+    "company": "SupportHub360",
+    "location": "Infopark",
+    "posted_date": "14-09-2026",
+    "deadline": "30 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/374/25454",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "a3405ccef9213fd0",
+    "role_type": "Business / Sales / Marketing",
+    "experience_level": "Intermediate"
+  },
+  {
     "title": "HR Executive",
     "company": "Phases India Technology Solutions Pvt Ltd.",
     "location": "Infopark",
@@ -6071,6 +6123,19 @@
     "experience_level": "Fresher"
   },
   {
+    "title": "Presales Executive - 3+ Years",
+    "company": "Thinkpalm Technologies Pvt.Ltd",
+    "location": "Infopark",
+    "posted_date": "31-08-2026",
+    "deadline": "30 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/49/25229",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "13440537bbf94c63",
+    "role_type": "Business / Sales / Marketing",
+    "experience_level": "Intermediate"
+  },
+  {
     "title": "Business Development Manager (Female-WFH)",
     "company": "MapleTech Space Pvt Ltd",
     "location": "Infopark",
@@ -6160,6 +6225,32 @@
     "job_id": "4d9d06250fbbb98e",
     "role_type": "Business / Sales / Marketing",
     "experience_level": "Intermediate"
+  },
+  {
+    "title": "Devops Engineer - 7+ Years",
+    "company": "Thinkpalm Technologies Pvt.Ltd",
+    "location": "Infopark",
+    "posted_date": "29-08-2026",
+    "deadline": "30 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/49/25210",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "3e71abb4dea4b82f",
+    "role_type": "DevOps / Cloud / Sysadmin",
+    "experience_level": "Intermediate"
+  },
+  {
+    "title": "Linux Platform Lead",
+    "company": "Thinkpalm Technologies Pvt.Ltd",
+    "location": "Infopark",
+    "posted_date": "29-08-2026",
+    "deadline": "30 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/49/25209",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "f6c8b27da92de53a",
+    "role_type": "Other",
+    "experience_level": "Senior"
   },
   {
     "title": "Performance Marketing Executive / Content Expert",
@@ -6838,6 +6929,19 @@
     "experience_level": "Intermediate"
   },
   {
+    "title": ".NET Enterprise Solution Architect - 10+years",
+    "company": "Thinkpalm Technologies Pvt.Ltd",
+    "location": "Infopark",
+    "posted_date": "05-08-2026",
+    "deadline": "30 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/49/24985",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "05df52f23f0e7f63",
+    "role_type": "Software Development",
+    "experience_level": "Senior"
+  },
+  {
     "title": "Systems Engineer",
     "company": "VIPoint Solutions Pvt Ltd",
     "location": "Infopark",
@@ -7225,6 +7329,19 @@
     "it_park": "Infopark",
     "job_id": "b835750e93b7bd6f",
     "role_type": "Software Development",
+    "experience_level": "Intermediate"
+  },
+  {
+    "title": "Manual Testing with experience in Mobile Application Testing - 4+ Years",
+    "company": "Thinkpalm Technologies Pvt.Ltd",
+    "location": "Infopark",
+    "posted_date": "24-07-2026",
+    "deadline": "30 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/49/24822",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "45657bc40a51426f",
+    "role_type": "QA / Testing",
     "experience_level": "Intermediate"
   },
   {
@@ -7761,6 +7878,19 @@
     "experience_level": "Senior"
   },
   {
+    "title": "Native iOS Developer with Flutter knowledge - 4+ Years",
+    "company": "Thinkpalm Technologies Pvt.Ltd",
+    "location": "Infopark",
+    "posted_date": "19-06-2026",
+    "deadline": "30 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/49/24212",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "ad707a3575d40a2d",
+    "role_type": "Software Development",
+    "experience_level": "Intermediate"
+  },
+  {
     "title": "Growth Marketing Manager",
     "company": "Art Technology and Software.",
     "location": "Infopark",
@@ -7850,6 +7980,32 @@
     "job_id": "ce3ea1cc0f7ecae9",
     "role_type": "HR / Admin / Finance",
     "experience_level": "Senior"
+  },
+  {
+    "title": "Datacom Developers - 4+ Years",
+    "company": "Thinkpalm Technologies Pvt.Ltd",
+    "location": "Infopark",
+    "posted_date": "15-06-2026",
+    "deadline": "30 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/49/24095",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "7e49e1d5e80c2579",
+    "role_type": "Other",
+    "experience_level": "Intermediate"
+  },
+  {
+    "title": "Linux Developer - 5+ Years",
+    "company": "Thinkpalm Technologies Pvt.Ltd",
+    "location": "Infopark",
+    "posted_date": "15-06-2026",
+    "deadline": "30 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/49/24094",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "3d366ccb03acb0b7",
+    "role_type": "Software Development",
+    "experience_level": "Intermediate"
   },
   {
     "title": "Sales Consultants - Travel",
@@ -8450,6 +8606,19 @@
     "experience_level": "Fresher"
   },
   {
+    "title": "Legal Counsel - 6+ Years",
+    "company": "Thinkpalm Technologies Pvt.Ltd",
+    "location": "Infopark",
+    "posted_date": "14-04-2026",
+    "deadline": "30 Sep 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/49/22999",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "93fb8633a2c6a738",
+    "role_type": "Other",
+    "experience_level": "Intermediate"
+  },
+  {
     "title": "Software Engineer (.Net)",
     "company": "Voyon Technology Pvt Ltd",
     "location": "Infopark",
@@ -8459,19 +8628,6 @@
     "description": "",
     "it_park": "Infopark",
     "job_id": "aeb28e810e4f5575",
-    "role_type": "Software Development",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Dynamics 365 Developer",
-    "company": "Array Platforms Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "27-03-2026",
-    "deadline": "30 Sep 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/394/22725",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "11c4e16c4cbb72ba",
     "role_type": "Software Development",
     "experience_level": "Intermediate"
   },
