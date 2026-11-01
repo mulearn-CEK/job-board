@@ -832,19 +832,6 @@
     "experience_level": "Fresher"
   },
   {
-    "job_id": "job-90-33882",
-    "title": "Business Development Executive (Immediate Joiners Preffered)",
-    "company": "TRAINONEX SOLUTIONS (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-29",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33882",
-    "description": "Walk-In interview: 2026-10-31 to 2026-10-31",
-    "it_park": "Technopark",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
     "job_id": "job-60-33881",
     "title": "Architectural Draftsman (AutoCAD)",
     "company": "M Squared Software & Services (P) Ltd",
@@ -1443,45 +1430,6 @@
     "experience_level": "Fresher"
   },
   {
-    "job_id": "job-78-33832",
-    "title": "Business Development Executive (Immediate Joiners Preffered)",
-    "company": "TRAINONEX SOLUTIONS (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-27",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33832",
-    "description": "Walk-In interview: 2026-10-31 to 2026-10-31",
-    "it_park": "Technopark",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-22-33831",
-    "title": "Video Editor",
-    "company": "TRAINONEX SOLUTIONS (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-27",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33831",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Design / UI-UX",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-71-33830",
-    "title": "Videographer cum Editor ( immediate joiners)",
-    "company": "TRAINONEX SOLUTIONS (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-27",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33830",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
     "job_id": "job-24-33829",
     "title": "Tele Sales Executive",
     "company": "Neonicz Software Solutions (P) Ltd",
@@ -1870,32 +1818,6 @@
     "it_park": "Technopark",
     "role_type": "Internship / Trainee",
     "experience_level": "Fresher"
-  },
-  {
-    "job_id": "job-87-33776",
-    "title": "Senior Marketing Executive",
-    "company": "Prayan Animation Studio (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-23",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33776",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Senior"
-  },
-  {
-    "job_id": "job-16-33775",
-    "title": "BackGround Colouring Artist",
-    "company": "Prayan Animation Studio (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-23",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33775",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
   },
   {
     "job_id": "job-96-33768",
@@ -2392,19 +2314,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "job_id": "job-52-33698",
-    "title": "Walk In Drive @ TCS Trivandrum On 31st October 2026, Saturday, 9:00 AM.",
-    "company": "Tata Consultancy Services Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-20",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33698",
-    "description": "Walk-In interview: 2026-10-31 to 2026-10-31",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
     "job_id": "job-51-33692",
     "title": "Accounting Assistant - US shift - Property Management",
     "company": "Adisys Research and Development India (P) Ltd",
@@ -2457,32 +2366,6 @@
     "experience_level": "Senior"
   },
   {
-    "job_id": "job-35-33681",
-    "title": "Digital Marketing & Content Writer Intern",
-    "company": "Zybo Tech Lab (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-19",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33681",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
-    "job_id": "job-22-33680",
-    "title": "3D Product Designer",
-    "company": "Zybo Tech Lab (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-19",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33680",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Design / UI-UX",
-    "experience_level": "Intermediate"
-  },
-  {
     "job_id": "job-65-33679",
     "title": "Microsoft Azure - Cloud Solution Specialist",
     "company": "Gruppozenit India (P) Ltd",
@@ -2509,32 +2392,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "job_id": "job-58-33670",
-    "title": "Client Relationship Executive",
-    "company": "Spericorn Technology (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-17",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33670",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-11-33669",
-    "title": "Business Analyst",
-    "company": "Zybo Tech Lab (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-17",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33669",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Project / Product Management",
-    "experience_level": "Intermediate"
-  },
-  {
     "job_id": "job-25-33668",
     "title": "Technical Project Manager",
     "company": "iTraitz IT Solutions (P) Ltd",
@@ -2545,32 +2402,6 @@
     "description": "",
     "it_park": "Technopark",
     "role_type": "Project / Product Management",
-    "experience_level": "Senior"
-  },
-  {
-    "job_id": "job-34-33650",
-    "title": "Solution Architect",
-    "company": "Trois Infotech (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-16",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33650",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
-    "job_id": "job-35-33649",
-    "title": "Technical Project Lead",
-    "company": "Trois Infotech (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-16",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33649",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
     "experience_level": "Senior"
   },
   {
@@ -2743,19 +2574,6 @@
     "experience_level": "Senior"
   },
   {
-    "job_id": "job-86-33623",
-    "title": "Digital Marketing Trainee",
-    "company": "ZenturioTech Pvt Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-15",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33623",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
     "job_id": "job-37-33622",
     "title": "Junior Executive - Sales & Marketing",
     "company": "M Squared Software & Services (P) Ltd",
@@ -2795,58 +2613,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "job_id": "job-90-33619",
-    "title": "Senior Digital Marketing Analyst – SEO/SMO",
-    "company": "Prayan Animation Studio (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-15",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33619",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Senior"
-  },
-  {
-    "job_id": "job-85-33618",
-    "title": "Customer Relationship Executive - Medical insurance",
-    "company": "PromptTech Global (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-15",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33618",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-29-33614",
-    "title": "UK Accounting Specialist",
-    "company": "PromptTech Global (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-15",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33614",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-83-33613",
-    "title": "Medical Underwriter",
-    "company": "PromptTech Global (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-15",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33613",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
     "job_id": "job-94-33612",
     "title": "Hiring Freshers for the Process Associate/Financial Associate role (Voice/Non Voice Process)",
     "company": "RR Donnelley India Outsource (P) Ltd",
@@ -2873,32 +2639,6 @@
     "experience_level": "Senior"
   },
   {
-    "job_id": "job-96-33607",
-    "title": "POS & Retail Solutions Executive",
-    "company": "PromptTech Global (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-15",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33607",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-42-33606",
-    "title": "Paid Internship Opportunity – Customer Relationship Executive (InsurTech)",
-    "company": "PromptTech Global (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-15",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33606",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
     "job_id": "job-20-33605",
     "title": "AR Caller (Voice Process)",
     "company": "SCALEVEL TECHNOLOGIES",
@@ -2909,32 +2649,6 @@
     "description": "",
     "it_park": "Technopark",
     "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-73-33603",
-    "title": "Sales Representative Trainee",
-    "company": "TIGRID TECHNOLOGIES (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-15",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33603",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
-    "job_id": "job-70-33600",
-    "title": "Software Test Engineer",
-    "company": "Kameda Infologics (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-14",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33600",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "QA / Testing",
     "experience_level": "Intermediate"
   },
   {
@@ -2949,32 +2663,6 @@
     "it_park": "Technopark",
     "role_type": "HR / Admin / Finance",
     "experience_level": "Senior"
-  },
-  {
-    "job_id": "job-58-33593",
-    "title": "Digital Marketing Intern",
-    "company": "Valoriz Digital (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-14",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33593",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
-    "job_id": "job-96-33592",
-    "title": "Market Research & Lead Generation Intern",
-    "company": "Valoriz Digital (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-14",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33592",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
   },
   {
     "job_id": "job-39-33590",
@@ -3094,32 +2782,6 @@
     "experience_level": "Fresher"
   },
   {
-    "job_id": "job-94-33568",
-    "title": "Kannada – Female Speaking Support Executive",
-    "company": "Integrated Order Automated Solutions (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-13",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33568",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Technical Support",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-39-33567",
-    "title": "Female Customer Care Manager (Kannada)",
-    "company": "Integrated Order Automated Solutions (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-13",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33567",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Technical Support",
-    "experience_level": "Senior"
-  },
-  {
     "job_id": "job-35-33566",
     "title": "Exp Full Stack Developer – AI-Assisted Development & Deployment",
     "company": "REIZEND (P) Ltd",
@@ -3143,19 +2805,6 @@
     "description": "",
     "it_park": "Technopark",
     "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-41-33562",
-    "title": "Office Admin",
-    "company": "Life and Opportunity Solutions LLP",
-    "location": "Technopark",
-    "posted_date": "2026-10-13",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33562",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "HR / Admin / Finance",
     "experience_level": "Intermediate"
   },
   {
@@ -3263,19 +2912,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "job_id": "job-86-33545",
-    "title": "Marketing Lead",
-    "company": "Eartheye Space Private Limited",
-    "location": "Technopark",
-    "posted_date": "2026-10-12",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33545",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Senior"
-  },
-  {
     "job_id": "job-10-33536",
     "title": "Mid‑Level Power Platform Consultant",
     "company": "Gruppozenit India (P) Ltd",
@@ -3338,32 +2974,6 @@
     "description": "",
     "it_park": "Technopark",
     "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-69-33507",
-    "title": "HR Executive",
-    "company": "Spericorn Technology (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-10",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33507",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "HR / Admin / Finance",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-37-33504",
-    "title": "Hardware Engineer – IoT & Embedded Systems",
-    "company": "Spericorn Technology (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-10",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33504",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Software Development",
     "experience_level": "Intermediate"
   },
   {
@@ -3471,32 +3081,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "job_id": "job-79-33463",
-    "title": "Test Engineer",
-    "company": "Innovation Incubator Advisory (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-08",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33463",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "QA / Testing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-22-33460",
-    "title": "Network Security ( CCNP / CCIE )",
-    "company": "Kvaliteta Systems and Solutions (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-08",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33460",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
     "job_id": "job-90-33454",
     "title": "Tele Sales / Inside Sales Executive",
     "company": "Xpetize Technology Solutions (P) Ltd",
@@ -3601,19 +3185,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "job_id": "job-95-33423",
-    "title": "Opening for Senior AR Caller-Process Coach(RCM) @Technopark",
-    "company": "Prochant India (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-07",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33423",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Senior"
-  },
-  {
     "job_id": "job-19-33399",
     "title": "AI Engineer",
     "company": "Stackmod Innovations (P) Ltd",
@@ -3624,19 +3195,6 @@
     "description": "",
     "it_park": "Technopark",
     "role_type": "Data / AI / ML",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-46-33394",
-    "title": "ETL/SQL Developer",
-    "company": "SE-Mentor Solutions (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-06",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33394",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Software Development",
     "experience_level": "Intermediate"
   },
   {
@@ -3666,45 +3224,6 @@
     "experience_level": "Senior"
   },
   {
-    "job_id": "job-45-33387",
-    "title": "English and Soft Skill Trainer",
-    "company": "Numenor Enterprises (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-06",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33387",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-55-33386",
-    "title": "Sales Executive",
-    "company": "Numenor Enterprises (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-06",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33386",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-22-33385",
-    "title": "Business Development Executive",
-    "company": "Numenor Enterprises (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-06",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33385",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
     "job_id": "job-25-33382",
     "title": "Laravel Developer – 1.5+ Years Experience",
     "company": "REFINED IT SOLUTIONS AND MARKETING (P) Ltd",
@@ -3716,45 +3235,6 @@
     "it_park": "Technopark",
     "role_type": "Software Development",
     "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-78-33370",
-    "title": "Marketing Associate",
-    "company": "Numenor Enterprises (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-06",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33370",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-66-33368",
-    "title": "Marketing Specialist",
-    "company": "Numenor Enterprises (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-06",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33368",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-85-33353",
-    "title": "Junior Report Developer",
-    "company": "Innovation Incubator Advisory (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-05",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33353",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Software Development",
-    "experience_level": "Fresher"
   },
   {
     "job_id": "job-59-33352",
@@ -3780,19 +3260,6 @@
     "description": "",
     "it_park": "Technopark",
     "role_type": "Software Development",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-70-33346",
-    "title": "DevOps Engineer - AWS",
-    "company": "Eartheye Space Private Limited",
-    "location": "Technopark",
-    "posted_date": "2026-10-05",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33346",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "DevOps / Cloud / Sysadmin",
     "experience_level": "Intermediate"
   },
   {
@@ -3872,58 +3339,6 @@
     "it_park": "Technopark",
     "role_type": "Business / Sales / Marketing",
     "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-69-33313",
-    "title": "AI / Data Engineer",
-    "company": "Trois Infotech (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-01",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33313",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Data / AI / ML",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-24-33312",
-    "title": "Business Analyst",
-    "company": "Trois Infotech (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-01",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33312",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Project / Product Management",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-40-33311",
-    "title": "UI-UX Engineer",
-    "company": "Trois Infotech (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-01",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33311",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Design / UI-UX",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-71-33310",
-    "title": "Senior Dev Ops Engineer",
-    "company": "Trois Infotech (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-10-01",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33310",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
   },
   {
     "job_id": "job-77-33309",
@@ -4030,58 +3445,6 @@
     "experience_level": "Senior"
   },
   {
-    "job_id": "job-11-33229",
-    "title": "Technical Architect -Java",
-    "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
-    "location": "Technopark",
-    "posted_date": "2026-09-28",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33229",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
-    "job_id": "job-94-33228",
-    "title": "Sr. Business Analyst - Insurance Domain",
-    "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
-    "location": "Technopark",
-    "posted_date": "2026-09-28",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33228",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Project / Product Management",
-    "experience_level": "Senior"
-  },
-  {
-    "job_id": "job-26-33227",
-    "title": "Project Manager -IT",
-    "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
-    "location": "Technopark",
-    "posted_date": "2026-09-28",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33227",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Project / Product Management",
-    "experience_level": "Senior"
-  },
-  {
-    "job_id": "job-41-33226",
-    "title": "Learning and Development Specialist -IT",
-    "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
-    "location": "Technopark",
-    "posted_date": "2026-09-28",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33226",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
     "job_id": "job-37-33225",
     "title": "Database Administrator (Multi-Platform)",
     "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
@@ -4121,32 +3484,6 @@
     "experience_level": "Senior"
   },
   {
-    "job_id": "job-41-33201",
-    "title": "Finance Executive",
-    "company": "DeviceDriven (India) Pvt. Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-09-28",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33201",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "HR / Admin / Finance",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-35-33187",
-    "title": "Business Development Manager",
-    "company": "ZenturioTech Pvt Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-09-26",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33187",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Senior"
-  },
-  {
     "job_id": "job-97-33182",
     "title": "Managed Identity Services Engineer I",
     "company": "FISCHER SYSTEMS India (P) Ltd",
@@ -4160,58 +3497,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "job_id": "job-85-33150",
-    "title": "Frontend Developer (Vue 3 & TypeScript)",
-    "company": "Xminds Infotech (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-09-24",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33150",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Software Development",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-63-33149",
-    "title": "“Freelance Technology Consultants” - Online / Offline on Weekdays & Week Ends",
-    "company": "Faith InfoTech India (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-09-24",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33149",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-71-33119",
-    "title": "Assistant Manager –Procurement & Supply Chain",
-    "company": "Trois Infotech (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-09-24",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33119",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Other",
-    "experience_level": "Senior"
-  },
-  {
-    "job_id": "job-28-33113",
-    "title": "Senior Systems Engineer - Broadband",
-    "company": "RM Education Solutions India (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-09-23",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33113",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
     "job_id": "job-16-33097",
     "title": "Technical Sales Specialist | 0-3 YEARS EXP",
     "company": "SMARTHMS & SOLUTIONS (P) Ltd",
@@ -4222,19 +3507,6 @@
     "description": "",
     "it_park": "Technopark",
     "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-77-33063",
-    "title": "Graphic Designer Trainees",
-    "company": "Edwiza Solutions (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-09-22",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33063",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Design / UI-UX",
     "experience_level": "Intermediate"
   },
   {
@@ -4342,32 +3614,6 @@
     "experience_level": "Fresher"
   },
   {
-    "job_id": "job-16-33029",
-    "title": "AI Engineer (Generative AI / RAG)",
-    "company": "Xminds Infotech (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-09-21",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33029",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Data / AI / ML",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-34-33004",
-    "title": "DevOps Engineer",
-    "company": "Ospyn Technologies Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-09-18",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/33004",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "DevOps / Cloud / Sysadmin",
-    "experience_level": "Intermediate"
-  },
-  {
     "job_id": "job-45-32970",
     "title": "TELECALLER",
     "company": "SMARTHMS & SOLUTIONS (P) Ltd",
@@ -4381,82 +3627,95 @@
     "experience_level": "Intermediate"
   },
   {
-    "job_id": "job-90-32963",
-    "title": "Sr. Software Engineer-Java",
-    "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
-    "location": "Technopark",
-    "posted_date": "2026-09-17",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/32963",
+    "title": "UX Writer (Growth)",
+    "company": "Mozilor Technologies Pvt. Ltd.",
+    "location": "Infopark",
+    "posted_date": "01-11-2026",
+    "deadline": "02 Nov 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/333/26518",
     "description": "",
-    "it_park": "Technopark",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
-    "job_id": "job-12-32962",
-    "title": "Software Engineer -Java",
-    "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
-    "location": "Technopark",
-    "posted_date": "2026-09-17",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/32962",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Software Development",
+    "it_park": "Infopark",
+    "job_id": "c5a864b231892237",
+    "role_type": "Design / UI-UX",
     "experience_level": "Intermediate"
   },
   {
-    "job_id": "job-35-32961",
-    "title": "Data Scientist -Fintech",
-    "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
-    "location": "Technopark",
-    "posted_date": "2026-09-17",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/32961",
+    "title": "Growth Lead",
+    "company": "Mozilor Technologies Pvt. Ltd.",
+    "location": "Infopark",
+    "posted_date": "01-11-2026",
+    "deadline": "02 Nov 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/333/26517",
     "description": "",
-    "it_park": "Technopark",
-    "role_type": "Data / AI / ML",
-    "experience_level": "Intermediate"
-  },
-  {
-    "job_id": "job-33-32960",
-    "title": "Manager – Analytics, AI & Data Engineering",
-    "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
-    "location": "Technopark",
-    "posted_date": "2026-09-17",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/32960",
-    "description": "",
-    "it_park": "Technopark",
-    "role_type": "Data / AI / ML",
+    "it_park": "Infopark",
+    "job_id": "1ba9f18397323971",
+    "role_type": "Business / Sales / Marketing",
     "experience_level": "Senior"
   },
   {
-    "job_id": "job-95-32959",
-    "title": "Data Analyst – FinTech",
-    "company": "MUTHOOT PAPPACHAN TECHNOLOGIES LTD",
-    "location": "Technopark",
-    "posted_date": "2026-09-17",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/32959",
+    "title": "Global Partnerships Manager",
+    "company": "Mozilor Technologies Pvt. Ltd.",
+    "location": "Infopark",
+    "posted_date": "01-11-2026",
+    "deadline": "02 Nov 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/333/26516",
     "description": "",
-    "it_park": "Technopark",
-    "role_type": "Data / AI / ML",
+    "it_park": "Infopark",
+    "job_id": "604f3a8885d0a950",
+    "role_type": "Other",
+    "experience_level": "Senior"
+  },
+  {
+    "title": "Affiliate Marketing Manager",
+    "company": "Mozilor Technologies Pvt. Ltd.",
+    "location": "Infopark",
+    "posted_date": "01-11-2026",
+    "deadline": "02 Nov 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/333/26515",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "32e5347c50f23a7f",
+    "role_type": "Business / Sales / Marketing",
+    "experience_level": "Senior"
+  },
+  {
+    "title": "AI Search & Agentic Growth Specialist (LLM SEO)",
+    "company": "Mozilor Technologies Pvt. Ltd.",
+    "location": "Infopark",
+    "posted_date": "01-11-2026",
+    "deadline": "02 Nov 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/333/26514",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "1a15e933653bc5a2",
+    "role_type": "Business / Sales / Marketing",
     "experience_level": "Intermediate"
   },
   {
-    "job_id": "job-39-32949",
-    "title": "Lead AI Engineer",
-    "company": "Experion Technologies (I) (P) Ltd",
-    "location": "Technopark",
-    "posted_date": "2026-09-17",
-    "deadline": "2026-10-31",
-    "apply_link": "https://technopark.in/job-details/32949",
+    "title": "Legal Content Specialist (LLB)",
+    "company": "Mozilor Technologies Pvt. Ltd.",
+    "location": "Infopark",
+    "posted_date": "01-11-2026",
+    "deadline": "02 Nov 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/333/26513",
     "description": "",
-    "it_park": "Technopark",
-    "role_type": "Data / AI / ML",
-    "experience_level": "Senior"
+    "it_park": "Infopark",
+    "job_id": "6fae641cc5781b95",
+    "role_type": "Other",
+    "experience_level": "Intermediate"
+  },
+  {
+    "title": "Compliance Support Executive",
+    "company": "Aabasoft Technologies India Private Limited",
+    "location": "Infopark",
+    "posted_date": "31-10-2026",
+    "deadline": "27 Nov 2026",
+    "apply_link": "https://infopark.in/company-jobs/details/95/26512",
+    "description": "",
+    "it_park": "Infopark",
+    "job_id": "6cb692f9564f93ab",
+    "role_type": "Technical Support",
+    "experience_level": "Intermediate"
   },
   {
     "title": "CONTENT WRITERS",
@@ -4482,84 +3741,6 @@
     "it_park": "Infopark",
     "job_id": "3936583311783397",
     "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Legal Content Specialist (LLB)",
-    "company": "Mozilor Technologies Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "31-10-2026",
-    "deadline": "01 Nov 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/333/26509",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "a710e10377151ade",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "AI Search & Agentic Growth Specialist (LLM SEO)",
-    "company": "Mozilor Technologies Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "31-10-2026",
-    "deadline": "01 Nov 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/333/26508",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "1be7d73e9ff712eb",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Affiliate Marketing Manager",
-    "company": "Mozilor Technologies Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "31-10-2026",
-    "deadline": "01 Nov 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/333/26507",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "ad121583ceff4333",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Senior"
-  },
-  {
-    "title": "Global Partnerships Manager",
-    "company": "Mozilor Technologies Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "31-10-2026",
-    "deadline": "01 Nov 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/333/26506",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "e3decc9a3169254a",
-    "role_type": "Other",
-    "experience_level": "Senior"
-  },
-  {
-    "title": "Growth Lead",
-    "company": "Mozilor Technologies Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "31-10-2026",
-    "deadline": "01 Nov 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/333/26505",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "e9a49018345dfe43",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Senior"
-  },
-  {
-    "title": "UX Writer (Growth)",
-    "company": "Mozilor Technologies Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "31-10-2026",
-    "deadline": "01 Nov 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/333/26504",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "43b8fa0d0f3b00d1",
-    "role_type": "Design / UI-UX",
     "experience_level": "Intermediate"
   },
   {
@@ -4775,7 +3956,7 @@
     "company": "2Base Technologies Pvt Ltd",
     "location": "Infopark",
     "posted_date": "30-10-2026",
-    "deadline": "31 Oct 2026",
+    "deadline": "01 Nov 2026",
     "apply_link": "https://infopark.in/company-jobs/details/312/26486",
     "description": "",
     "it_park": "Infopark",
@@ -4788,7 +3969,7 @@
     "company": "2Base Technologies Pvt Ltd",
     "location": "Infopark",
     "posted_date": "30-10-2026",
-    "deadline": "31 Oct 2026",
+    "deadline": "01 Nov 2026",
     "apply_link": "https://infopark.in/company-jobs/details/312/26485",
     "description": "",
     "it_park": "Infopark",
@@ -4801,7 +3982,7 @@
     "company": "2Base Technologies Pvt Ltd",
     "location": "Infopark",
     "posted_date": "30-10-2026",
-    "deadline": "31 Oct 2026",
+    "deadline": "01 Nov 2026",
     "apply_link": "https://infopark.in/company-jobs/details/312/26484",
     "description": "",
     "it_park": "Infopark",
@@ -4814,7 +3995,7 @@
     "company": "2Base Technologies Pvt Ltd",
     "location": "Infopark",
     "posted_date": "30-10-2026",
-    "deadline": "31 Oct 2026",
+    "deadline": "01 Nov 2026",
     "apply_link": "https://infopark.in/company-jobs/details/312/26483",
     "description": "",
     "it_park": "Infopark",
@@ -4827,7 +4008,7 @@
     "company": "2Base Technologies Pvt Ltd",
     "location": "Infopark",
     "posted_date": "30-10-2026",
-    "deadline": "31 Oct 2026",
+    "deadline": "01 Nov 2026",
     "apply_link": "https://infopark.in/company-jobs/details/312/26482",
     "description": "",
     "it_park": "Infopark",
@@ -4840,7 +4021,7 @@
     "company": "2Base Technologies Pvt Ltd",
     "location": "Infopark",
     "posted_date": "30-10-2026",
-    "deadline": "31 Oct 2026",
+    "deadline": "01 Nov 2026",
     "apply_link": "https://infopark.in/company-jobs/details/312/26481",
     "description": "",
     "it_park": "Infopark",
@@ -5330,19 +4511,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Business Presentation Specialist",
-    "company": "Gapblue Software Labs Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "26-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/428/26383",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "072ac8ffb511955b",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "Senior Technical Recruiter",
     "company": "DataPMI Technologies LLP",
     "location": "Infopark",
@@ -5445,19 +4613,6 @@
     "job_id": "bb0741eec2bb0e89",
     "role_type": "Software Development",
     "experience_level": "Fresher"
-  },
-  {
-    "title": "Flutter Developer (Experienced)",
-    "company": "Spiralcode Innovates LLP",
-    "location": "Infopark",
-    "posted_date": "24-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/507/26360",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "5a2a1e591d51fb9c",
-    "role_type": "Software Development",
-    "experience_level": "Intermediate"
   },
   {
     "title": "AI Data Annotation Specialist",
@@ -5575,45 +4730,6 @@
     "job_id": "3eedff0d01ef842e",
     "role_type": "Data / AI / ML",
     "experience_level": "Senior"
-  },
-  {
-    "title": "Senior Confluent Kafka Migration Engineer",
-    "company": "iCodeBees Private Limited",
-    "location": "Infopark",
-    "posted_date": "23-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/450/26333",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "356d69b6305bb7de",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
-    "title": "HR Trainee - Payroll and Statutory",
-    "company": "Nuvento Systems Private Limited",
-    "location": "Infopark",
-    "posted_date": "23-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/58/26331",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "2bbe03d7991d3a96",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
-    "title": "HR Internship",
-    "company": "Penguin Data Centre Pvt.Ltd.",
-    "location": "Infopark",
-    "posted_date": "23-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/171/26330",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "0b77b3068fe02407",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
   },
   {
     "title": "Graphic Designer & Video Editor Intern",
@@ -5785,32 +4901,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Marketing Internship (Paid)",
-    "company": "Nuvento Systems Private Limited",
-    "location": "Infopark",
-    "posted_date": "20-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/58/26270",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "c7715f42c362658a",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
-    "title": "Facade Designer - Trainee",
-    "company": "Enveetech BIM Solutions Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "20-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/554/26266",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "4b1cd3f597e00b1c",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
     "title": "UIUX Designer",
     "company": "Planet Media India ( PMIN Agency Pvt.Ltd.)",
     "location": "Infopark",
@@ -5834,19 +4924,6 @@
     "it_park": "Infopark",
     "job_id": "ebda2d9a5735dcb1",
     "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "TELE CALLER",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "19-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/26245",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "62f697dd362d1672",
-    "role_type": "Other",
     "experience_level": "Intermediate"
   },
   {
@@ -5941,19 +5018,6 @@
     "experience_level": "Senior"
   },
   {
-    "title": "Software Engineers /Senior Software Developers – ASP.Net Core, Vue.JS, MongoDB",
-    "company": "KOTT SOFTWARE PRIVATE LIMITED",
-    "location": "Infopark",
-    "posted_date": "17-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/143/26208",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "3c3a855756dd239c",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
     "title": "Hiring for Presales Lead, Kochi/Trivandrum",
     "company": "Thinkpalm Technologies Pvt.Ltd",
     "location": "Infopark",
@@ -6017,45 +5081,6 @@
     "job_id": "a13b12e70b15a37c",
     "role_type": "Business / Sales / Marketing",
     "experience_level": "Intermediate"
-  },
-  {
-    "title": "BUSINESS IMPLEMENTATION EXECUTIVE",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "16-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/26189",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "8a8a5f37c8018702",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "TECHNICAL SUPPORT EXECUTIVE",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "16-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/26188",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "2e241cf804778b1b",
-    "role_type": "Technical Support",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Senior Engineer - Linux",
-    "company": "Emsyne Technologies Private Limited",
-    "location": "Infopark",
-    "posted_date": "15-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/76/26171",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "552404aae54020b3",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
   },
   {
     "title": "Java Spring Boot Developer",
@@ -6123,19 +5148,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Hiring for BSP Lead, Kochi/Trivandrum",
-    "company": "Thinkpalm Technologies Pvt.Ltd",
-    "location": "Infopark",
-    "posted_date": "15-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/49/26163",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "030db92bfecadb94",
-    "role_type": "Other",
-    "experience_level": "Senior"
-  },
-  {
     "title": "Accounts Executive (2-4 Years Experience)",
     "company": "CoolMinds Technologies Pvt Ltd.",
     "location": "Infopark",
@@ -6162,19 +5174,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Hiring for RDK-B Stack developer-Kochi/Trivandrum",
-    "company": "Thinkpalm Technologies Pvt.Ltd",
-    "location": "Infopark",
-    "posted_date": "15-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/49/26160",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "cee4edb12b3dd8b2",
-    "role_type": "Software Development",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "SAP DRC Consultant",
     "company": "Simelabs - An Astek Company",
     "location": "Infopark",
@@ -6185,32 +5184,6 @@
     "it_park": "Infopark",
     "job_id": "a2bd2933df5ac65e",
     "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Technical Support Coach",
-    "company": "VIPoint Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "15-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/62/26158",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "2dbca5ebba78c8de",
-    "role_type": "Technical Support",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Kubernetes Admin/System Admin(On-site, Mumbai)",
-    "company": "NDimensionZ Solutions Pvt.Ltd.",
-    "location": "Infopark",
-    "posted_date": "15-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/209/26157",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "be8dd09bc62ec00f",
-    "role_type": "HR / Admin / Finance",
     "experience_level": "Intermediate"
   },
   {
@@ -6331,32 +5304,6 @@
     "experience_level": "Senior"
   },
   {
-    "title": "Digital Marketing Intern",
-    "company": "Innovature Software Labs (P) Ltd",
-    "location": "Infopark",
-    "posted_date": "14-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/190/26129",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "75f29e31aca09022",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
-    "title": "Lock Desk Analyst – U.S. Mortgage",
-    "company": "QC Verify Private Limited",
-    "location": "Infopark",
-    "posted_date": "14-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/257/26128",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "6d1114ff00c90dc8",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "Fullstack Engineer (5+ Exp)",
     "company": "Art Technology and Software.",
     "location": "Infopark",
@@ -6396,19 +5343,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "AI Architect",
-    "company": "iDatalytics Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "13-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/91/26107",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "895bb387511ef5ce",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
     "title": "Sales & Purchase Associate",
     "company": "Alphasky Ventures Pvt. Ltd.",
     "location": "Infopark",
@@ -6445,32 +5379,6 @@
     "it_park": "Infopark",
     "job_id": "b27d3d0ac31207ce",
     "role_type": "Software Development",
-    "experience_level": "Fresher"
-  },
-  {
-    "title": "Business Development Executive - IT & Software (Exp: 2+ Yrs)",
-    "company": "LucidPlus Infotech Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "13-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/41/26098",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "5ac315356f049a3c",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Trainee  - Sales & Business Development",
-    "company": "LucidPlus Infotech Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "13-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/41/26097",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "f7f6c6c4db873d25",
-    "role_type": "Internship / Trainee",
     "experience_level": "Fresher"
   },
   {
@@ -6552,45 +5460,6 @@
     "experience_level": "Senior"
   },
   {
-    "title": "HR (Internship)",
-    "company": "Lisbell Technologies Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "11-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/542/26045",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "a6f707c22321e554",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
-    "title": "Junior Facade Designer",
-    "company": "Enveetech BIM Solutions Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "10-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/554/26044",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "8b4b38852b7d08ba",
-    "role_type": "Design / UI-UX",
-    "experience_level": "Fresher"
-  },
-  {
-    "title": "Jr. Full Stack developer (.NET + Angular)",
-    "company": "Penguin Data Centre Pvt.Ltd.",
-    "location": "Infopark",
-    "posted_date": "09-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/171/26031",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "b30579e7ee1e4526",
-    "role_type": "Software Development",
-    "experience_level": "Fresher"
-  },
-  {
     "title": "Software Sales Executive – Insurance Broking ERP",
     "company": "TechTaliya Informatics Pvt. Ltd.",
     "location": "Infopark",
@@ -6601,19 +5470,6 @@
     "it_park": "Infopark",
     "job_id": "965c5efa988661a1",
     "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Customer Relations & Office Operations Executive",
-    "company": "Tech Aventure",
-    "location": "Infopark",
-    "posted_date": "08-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/385/26001",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "cfb6b9d9038ff812",
-    "role_type": "Other",
     "experience_level": "Intermediate"
   },
   {
@@ -6695,19 +5551,6 @@
     "experience_level": "Senior"
   },
   {
-    "title": "Payroll & Business Compliance Assistant (US Operations)",
-    "company": "Syriac Consultancy Services Private Limited",
-    "location": "Infopark",
-    "posted_date": "05-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/433/25930",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "1b5e795aeb645da3",
-    "role_type": "HR / Admin / Finance",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "As-Built BIM Specialist",
     "company": "Roberts Design Services",
     "location": "Infopark",
@@ -6745,19 +5588,6 @@
     "job_id": "0c1d696d64b5a9bc",
     "role_type": "Internship / Trainee",
     "experience_level": "Fresher"
-  },
-  {
-    "title": "AI Developer",
-    "company": "Planet Media India ( PMIN Agency Pvt.Ltd.)",
-    "location": "Infopark",
-    "posted_date": "05-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/266/25924",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "b5b6d4f6cc6027ac",
-    "role_type": "Software Development",
-    "experience_level": "Intermediate"
   },
   {
     "title": "IT Sales Head/ lT Sales Director (International markets)",
@@ -6864,19 +5694,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Senior Software Developer",
-    "company": "Orestes Technologies Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "01-10-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/390/25863",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "66ec3228f25d9b31",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
     "title": "Talent Acquisition Specialist – IT Recruitment",
     "company": "Origent Technologies",
     "location": "Infopark",
@@ -6929,19 +5746,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Senior Incident Commander",
-    "company": "VIPoint Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "29-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/62/25800",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "a02b852df0193706",
-    "role_type": "Other",
-    "experience_level": "Senior"
-  },
-  {
     "title": "Video Editor",
     "company": "TouchWorld Technology",
     "location": "Infopark",
@@ -6952,19 +5756,6 @@
     "it_park": "Infopark",
     "job_id": "d2bdc0ee3f6322db",
     "role_type": "Design / UI-UX",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Software Test Engineers / Software Testers",
-    "company": "KOTT SOFTWARE PRIVATE LIMITED",
-    "location": "Infopark",
-    "posted_date": "29-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/143/25796",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "0ecaf9a090ed9626",
-    "role_type": "Software Development",
     "experience_level": "Intermediate"
   },
   {
@@ -7020,19 +5811,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "SEO & Digital Marketing Expert (Experience: 3–5 Years)",
-    "company": "9Commerce Technologies",
-    "location": "Infopark",
-    "posted_date": "27-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/261/25746",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "da4c7eefdbfcf195",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "Senior Software Engineer .NET",
     "company": "Fingent Global Solutions",
     "location": "Infopark",
@@ -7072,32 +5850,6 @@
     "experience_level": "Senior"
   },
   {
-    "title": "Senior Odoo Technical Consultant",
-    "company": "Gravity Business Process Private Limited",
-    "location": "Infopark",
-    "posted_date": "24-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/538/25701",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "80b672e893a7af61",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
-    "title": "Senior Odoo Functional Consultant",
-    "company": "Gravity Business Process Private Limited",
-    "location": "Infopark",
-    "posted_date": "24-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/538/25700",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "f48266d6790b1629",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
     "title": "Client Relations Manager",
     "company": "MapleTech Space Pvt Ltd",
     "location": "Infopark",
@@ -7111,19 +5863,6 @@
     "experience_level": "Senior"
   },
   {
-    "title": "Inventor Modeler",
-    "company": "Enveetech BIM Solutions Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "23-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/554/25672",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "9c1f441c54ecaf5c",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "Document Digitization Assistant",
     "company": "Aabasoft Technologies India Private Limited",
     "location": "Infopark",
@@ -7134,58 +5873,6 @@
     "it_park": "Infopark",
     "job_id": "735d3456c2256bae",
     "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Data Analytics Developer / Data Analytics Developer(Intern)",
-    "company": "Paoyaila Animation Studios LLP",
-    "location": "Infopark",
-    "posted_date": "21-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/476/25614",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "5184d6441349e241",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Softop Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "19-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/462/25582",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "f91c465a6e0dd94a",
-    "role_type": "Software Development",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "HVAC Engineer",
-    "company": "Gravity Business Process Private Limited",
-    "location": "Infopark",
-    "posted_date": "18-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/538/25523",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "67263702be54302d",
-    "role_type": "Software Development",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Digital Designer",
-    "company": "Direct7 Telecom Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "17-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/547/25513",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "da101371f12aae06",
-    "role_type": "Design / UI-UX",
     "experience_level": "Intermediate"
   },
   {
@@ -7212,19 +5899,6 @@
     "it_park": "Infopark",
     "job_id": "dd99d66b821c4e1e",
     "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
-    "title": "Lead AI Engineer",
-    "company": "Experion Technologies",
-    "location": "Infopark",
-    "posted_date": "17-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/103/25498",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "6248dbfa59260129",
-    "role_type": "Data / AI / ML",
     "experience_level": "Senior"
   },
   {
@@ -7278,19 +5952,6 @@
     "job_id": "8bb54845e65882c9",
     "role_type": "Other",
     "experience_level": "Intermediate"
-  },
-  {
-    "title": "Senior Software QA Engineer",
-    "company": "Planet Media India ( PMIN Agency Pvt.Ltd.)",
-    "location": "Infopark",
-    "posted_date": "15-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/266/25465",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "af68ca5186133a3c",
-    "role_type": "QA / Testing",
-    "experience_level": "Senior"
   },
   {
     "title": "IT Sales Specialist",
@@ -7358,19 +6019,6 @@
     "experience_level": "Fresher"
   },
   {
-    "title": "Snowflake Architect",
-    "company": "Experion Technologies",
-    "location": "Infopark",
-    "posted_date": "10-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/103/25421",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "3bfe1e75a0a48b07",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
     "title": "Telecaller Cum Business Development Executive",
     "company": "GALTech Technologies Pvt Ltd",
     "location": "Infopark",
@@ -7397,19 +6045,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Procurement Executive",
-    "company": "In-Tech Group India Private Limited",
-    "location": "Infopark",
-    "posted_date": "09-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/397/25395",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "931a7af94d42c814",
-    "role_type": "Other",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "Digital Marketing Team Lead",
     "company": "GALTech Technologies Pvt Ltd",
     "location": "Infopark",
@@ -7420,45 +6055,6 @@
     "it_park": "Infopark",
     "job_id": "9ec596718259fa71",
     "role_type": "Business / Sales / Marketing",
-    "experience_level": "Senior"
-  },
-  {
-    "title": "Business Development Manager",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "07-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/25359",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "4f301a3b137443b2",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Senior"
-  },
-  {
-    "title": "DevOps Engineer",
-    "company": "Emsyne Technologies Private Limited",
-    "location": "Infopark",
-    "posted_date": "07-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/76/25358",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "b998a1dcbcc84180",
-    "role_type": "DevOps / Cloud / Sysadmin",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Senior Odoo Developer (5–7 Years Experience)",
-    "company": "9Commerce Technologies",
-    "location": "Infopark",
-    "posted_date": "02-09-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/261/25285",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "76529e93d77513c6",
-    "role_type": "Software Development",
     "experience_level": "Senior"
   },
   {
@@ -7589,19 +6185,6 @@
     "it_park": "Infopark",
     "job_id": "a91e29d552ec88cd",
     "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Full Stack Developer (Angular & .NET)",
-    "company": "Aabasoft Technologies India Private Limited",
-    "location": "Infopark",
-    "posted_date": "27-08-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/95/25184",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "9808bab5d6e2e0bf",
-    "role_type": "Software Development",
     "experience_level": "Intermediate"
   },
   {
@@ -7787,19 +6370,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Business Development Officer",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "31-07-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/24916",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "e1e259ed91d13fab",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "Junior DevOps Engineer",
     "company": "Fingent Global Solutions",
     "location": "Infopark",
@@ -7878,19 +6448,6 @@
     "experience_level": "Senior"
   },
   {
-    "title": "Inside Sales Executive",
-    "company": "Cabot Technology Solutions Pvt. Ltd.",
-    "location": "Infopark",
-    "posted_date": "21-07-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/64/24758",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "e907cbe3e7073747",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "Azure Infrastructure Architect",
     "company": "Dynamed Healthcare Solutions Pvt.Ltd.",
     "location": "Infopark",
@@ -7928,19 +6485,6 @@
     "job_id": "9ec53ed23cea8f08",
     "role_type": "Other",
     "experience_level": "Intermediate"
-  },
-  {
-    "title": "Digital Marketing Intern – Creative Designer",
-    "company": "Aabasoft Technologies India Private Limited",
-    "location": "Infopark",
-    "posted_date": "14-07-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/95/24624",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "051fbb7d5bbce711",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
   },
   {
     "title": "Transactions Analyst",
@@ -8177,32 +6721,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "ERP QA Analyst",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "25-05-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/23699",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "0bd4e39aee1bda4c",
-    "role_type": "QA / Testing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "AI Developer / AI Developer (Intern)",
-    "company": "Paoyaila Animation Studios LLP",
-    "location": "Infopark",
-    "posted_date": "22-05-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/476/23684",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "674d202d8e4f7ba6",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
-  },
-  {
     "title": "Full Stack Developer",
     "company": "TouchWorld Technology",
     "location": "Infopark",
@@ -8268,19 +6786,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Project Manager",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "12-05-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/23504",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "62931a75bbae0542",
-    "role_type": "Project / Product Management",
-    "experience_level": "Senior"
-  },
-  {
     "title": "IT Sales Head/IT Sales Director (International markets)-10+ years",
     "company": "Thomsun Infocare LLP",
     "location": "Infopark",
@@ -8292,19 +6797,6 @@
     "job_id": "13e639393a73cc71",
     "role_type": "Business / Sales / Marketing",
     "experience_level": "Senior"
-  },
-  {
-    "title": "Microsoft Dynamics 365 Business Central Technical Trainee Position",
-    "company": "Woxro",
-    "location": "Infopark",
-    "posted_date": "08-05-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/399/23435",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "3eec47520cc6546a",
-    "role_type": "Internship / Trainee",
-    "experience_level": "Fresher"
   },
   {
     "title": ".NET MVC Developer",
@@ -8463,32 +6955,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Chief Executive Officer",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "24-04-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/23176",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "5063b75be1ae6b04",
-    "role_type": "Other",
-    "experience_level": "Senior"
-  },
-  {
-    "title": "Business Development Officer",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "24-04-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/23175",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "f4c46eca5553393f",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "MRD Technician",
     "company": "Dynamed Healthcare Solutions Pvt.Ltd.",
     "location": "Infopark",
@@ -8567,45 +7033,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "BUSINESS DEVELOPMENT OFFICER (BDO)",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "25-02-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/22244",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "023abef9bc65fa23",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Game Developer",
-    "company": "Paoyaila Animation Studios LLP",
-    "location": "Infopark",
-    "posted_date": "21-02-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/476/22178",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "86733c25f9865fd8",
-    "role_type": "Software Development",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "VB.NET DEVELOPER",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "19-02-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/22151",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "9c5eb06d7175f924",
-    "role_type": "Software Development",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "Engineer-Precast Detailing- (Revit)",
     "company": "Advenser Engineering Services Private Limited",
     "location": "Infopark",
@@ -8642,32 +7069,6 @@
     "it_park": "Infopark",
     "job_id": "9dbba67d1267ac79",
     "role_type": "Software Development",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Sales Executive (1.5 Year)",
-    "company": "Woxro",
-    "location": "Infopark",
-    "posted_date": "16-02-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/399/22102",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "6e2af893fcc69d6d",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "CUSTOMER SERVICE ANALYST",
-    "company": "Eqsoft Business Solutions Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "11-02-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/286/22036",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "1e8ce01316d44def",
-    "role_type": "Other",
     "experience_level": "Intermediate"
   },
   {
@@ -8747,19 +7148,6 @@
     "job_id": "8e985bf66329f12f",
     "role_type": "Business / Sales / Marketing",
     "experience_level": "Intermediate"
-  },
-  {
-    "title": "Social Media & SEO Manager",
-    "company": "Fine Destination",
-    "location": "Infopark",
-    "posted_date": "30-01-2026",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/497/21865",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "cacdc52e02178b1b",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Senior"
   },
   {
     "title": "Technical Project Manager-.NET Core/ERP Systems",
@@ -9022,19 +7410,6 @@
     "experience_level": "Senior"
   },
   {
-    "title": ".Net Core Developer",
-    "company": "Emsyne Technologies Private Limited",
-    "location": "Infopark",
-    "posted_date": "05-11-2025",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/76/20982",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "62e1c39ff0719f32",
-    "role_type": "Software Development",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "Business Development Manager",
     "company": "Techversant Infotech Pvt Ltd",
     "location": "Infopark",
@@ -9217,19 +7592,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "AI Architect / Senior AI Technical Lead",
-    "company": "JK Lucent Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "16-09-2025",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/415/20398",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "036344925f72d988",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
     "title": "UI/UX Designer",
     "company": "Mantra IT Solutions",
     "location": "Infopark",
@@ -9241,32 +7603,6 @@
     "job_id": "18a90dae6e9b3f17",
     "role_type": "Design / UI-UX",
     "experience_level": "Intermediate"
-  },
-  {
-    "title": "Senior Backend Engineer – Python (AI-Powered Systems)",
-    "company": "JK Lucent Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "10-09-2025",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/415/20299",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "20657c3388b3cac9",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
-  },
-  {
-    "title": "Senior Data Scientist",
-    "company": "JK Lucent Pvt Ltd",
-    "location": "Infopark",
-    "posted_date": "09-09-2025",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/415/20262",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "6db2d9109ab5fd7a",
-    "role_type": "Data / AI / ML",
-    "experience_level": "Senior"
   },
   {
     "title": "Jr. Full stack Developer",
@@ -9321,19 +7657,6 @@
     "experience_level": "Senior"
   },
   {
-    "title": "GRAPHIC DESIGN & VIDEO EDITOR 2 Year Experience",
-    "company": "Bramma IT Solutions",
-    "location": "Infopark",
-    "posted_date": "13-06-2025",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/443/19206",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "27b51f8b24386176",
-    "role_type": "Design / UI-UX",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "Video Editor (Exp:2+years)",
     "company": "Webandcrafts",
     "location": "Infopark",
@@ -9344,19 +7667,6 @@
     "it_park": "Infopark",
     "job_id": "85fa6729f9ad14c1",
     "role_type": "Design / UI-UX",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Business Analyst",
-    "company": "Emsyne Technologies Private Limited",
-    "location": "Infopark",
-    "posted_date": "21-05-2025",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/76/18922",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "b61d9faa7ca5ad9c",
-    "role_type": "Project / Product Management",
     "experience_level": "Intermediate"
   },
   {
@@ -9438,19 +7748,6 @@
     "experience_level": "Fresher"
   },
   {
-    "title": "Project Manager",
-    "company": "Innovature Software Labs (P) Ltd",
-    "location": "Infopark",
-    "posted_date": "21-02-2025",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/190/17997",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "bef7fef716d00437",
-    "role_type": "Project / Product Management",
-    "experience_level": "Senior"
-  },
-  {
     "title": "Business Development Intern",
     "company": "AVENTUS INFORMATICS",
     "location": "Infopark",
@@ -9462,19 +7759,6 @@
     "job_id": "0268c830d164f9ca",
     "role_type": "Internship / Trainee",
     "experience_level": "Fresher"
-  },
-  {
-    "title": "Senior .Net Core Developer",
-    "company": "Emsyne Technologies Private Limited",
-    "location": "Infopark",
-    "posted_date": "29-01-2025",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/76/17723",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "f04c9316c912aa47",
-    "role_type": "Software Development",
-    "experience_level": "Senior"
   },
   {
     "title": "Sales Executive",
@@ -9516,19 +7800,6 @@
     "experience_level": "Intermediate"
   },
   {
-    "title": "Junior Accountant",
-    "company": "Syriac Consultancy Services Private Limited",
-    "location": "Infopark",
-    "posted_date": "15-11-2024",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/433/17183",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "e4f7e4041b88a6b0",
-    "role_type": "HR / Admin / Finance",
-    "experience_level": "Fresher"
-  },
-  {
     "title": "Social Media Marketing Intern",
     "company": "AVENTUS INFORMATICS",
     "location": "Infopark",
@@ -9540,19 +7811,6 @@
     "job_id": "ae4408ff5fac67cd",
     "role_type": "Internship / Trainee",
     "experience_level": "Fresher"
-  },
-  {
-    "title": "Digital Marketing Executive",
-    "company": "Bramma IT Solutions",
-    "location": "Infopark",
-    "posted_date": "11-11-2024",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/443/17145",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "f0ee75b13ba3cbe5",
-    "role_type": "Business / Sales / Marketing",
-    "experience_level": "Intermediate"
   },
   {
     "title": "Business Development Representative (BDR)",
@@ -9763,19 +8021,6 @@
     "experience_level": "Fresher"
   },
   {
-    "title": "HR Interns",
-    "company": "ROGERSOFT",
-    "location": "Infopark",
-    "posted_date": "02-08-2022",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/309/10728",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "484dffba61733f08",
-    "role_type": "HR / Admin / Finance",
-    "experience_level": "Intermediate"
-  },
-  {
     "title": "DevOps Engineer",
     "company": "Innovature Software Labs (P) Ltd",
     "location": "Infopark",
@@ -9799,19 +8044,6 @@
     "it_park": "Infopark",
     "job_id": "8acddf89ef2379cd",
     "role_type": "HR / Admin / Finance",
-    "experience_level": "Intermediate"
-  },
-  {
-    "title": "Epicor Technical Consultant",
-    "company": "Thomsun Infocare LLP",
-    "location": "Infopark",
-    "posted_date": "05-04-2022",
-    "deadline": "31 Oct 2026",
-    "apply_link": "https://infopark.in/company-jobs/details/259/9425",
-    "description": "",
-    "it_park": "Infopark",
-    "job_id": "5e0135e80c65f8ff",
-    "role_type": "Other",
     "experience_level": "Intermediate"
   },
   {
